@@ -1,1 +1,1 @@
-helm install d7nginx ./nginx/
+helm install d7nginx .
