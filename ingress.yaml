@@ -1,0 +1,14 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: dnginx-ingress
+spec:
+  rules:
+  - host: dng.e.com
+    http:
+      paths:
+      - path: /
+        backend:
+          serviceName: dnginx-svc
+          servicePort: 80
+
