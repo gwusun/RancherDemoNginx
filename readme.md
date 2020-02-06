@@ -1,4 +1,6 @@
-.
+文件结构
+
+```
 ├── ./app-readme.md		程序自诉文件
 ├── ./charts			依赖
 ├── ./Chart.yaml		程序描述
@@ -17,6 +19,5 @@
 │   ├── ./templates/rc.yaml	rc
 │   └── ./templates/svc.yaml	svc
 ├── ./uninstall.sh		helm卸载
-└── ./values.yaml		预定义资源
-
-2 directories, 20 files
+└── ./values.yaml		预定义资
+```
