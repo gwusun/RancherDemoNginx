@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   myngdemo:
   - apiVersion: v1
-    appVersion: 1.0.1
-    created: "2020-02-05T05:18:40.432882732+08:00"
-    description: myngdeme1
-    digest: 2b6e460be7f1658dd58817798b72ac5dfda5238c72abcea27ea4210768ac3fad
+    appVersion: 1.0.2
+    created: "2020-02-06T14:45:36.329216493+08:00"
+    description: nginx-demo
+    digest: 86e13509bf811d990659a7f5767782a68f45da12510c7024ca47af60850a7ed0
     name: myngdemo
     urls:
-    - myngdemo-1.0.1.tgz
-    version: 1.0.1
-generated: "2020-02-05T05:18:40.427701281+08:00"
+    - myngdemo-1.0.2.tgz
+    version: 1.0.2
+generated: "2020-02-06T14:45:36.32282175+08:00"
